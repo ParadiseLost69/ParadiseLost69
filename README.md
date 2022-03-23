@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParadiseLost69
 - 👀 I’m interested in music, web dev, Japanese, and more
-- 🌱 I’m currently learning basic html
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
