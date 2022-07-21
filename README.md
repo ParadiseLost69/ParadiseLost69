@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on anything!
 - 📫 @TeddyConst on twitter
+- Find me on CODEWARS https://www.codewars.com/users/ParadiseLost69
 
 <!---
 ParadiseLost69/ParadiseLost69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
