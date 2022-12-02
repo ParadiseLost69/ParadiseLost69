@@ -4,7 +4,6 @@
 - 📫 @TeddyConst on twitter
 - Check out my portfolio: https://teddy-loukas-portfolio.netlify.app/
 - Find me on CODEWARS https://www.codewars.com/users/ParadiseLost69
-- ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 
 <!---
