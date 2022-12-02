@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ParadiseLost69
+- 👋 Hi, I’m Teddy.
 - 👀 I’m interested in music, web dev, Japanese, and more
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on anything!
+- 🌱 I’m currently learning React, Next,js, Node.js, and Express.
 - 📫 @TeddyConst on twitter
+- Check out my portfolio: https://teddy-loukas-portfolio.netlify.app/
 - Find me on CODEWARS https://www.codewars.com/users/ParadiseLost69
 
 <!---
