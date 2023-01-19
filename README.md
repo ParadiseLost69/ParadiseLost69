@@ -3,7 +3,7 @@
   <ul>
     <li> I'm Teddy 😊 </li>
     <li> 👀 I’m interested in full stack development, music, kickboxing, Japanese, and more </li>
-    <li> 🌱 I’m currently learning React, Next.js, Node.js, and Express.</li>
+    <li> 🌱 I’m currently creating a Blog API using Node.js, Express.js, MongoDb, and React.</li>
     <li>📫 @TeddyConst on twitter </li>
     <li>Check out my portfolio: https://teddy-loukas-portfolio.netlify.app/ </li>
   </ul>
@@ -30,7 +30,8 @@
       <div align="center">
         <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
         <img src="https://img.shields.io/badge/Github-%2343853D.svg?&style=for-the-badge&logo=github&logoColor=blue&color=202329" />
-        <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Being%20a%20generally%20good%20guy-%2343853D.svg?&style=for-the-badge&color=blue" />
       </div>  
   
     
