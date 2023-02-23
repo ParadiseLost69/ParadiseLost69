@@ -3,7 +3,7 @@
   <ul>
     <li> I'm Teddy 😊 </li>
     <li> 👀 I’m interested in full stack development, AI, music, kickboxing, Japanese, and more </li>
-    <li> 🌱 I’m currently creating a Blog API using Node.js, Express.js, MongoDb, and React.</li>
+    <li> 🌱 I’m currently creating a Blog API using Node.js, Express.js, MongoDb, and React!</li>
     <li>📫 @TeddyConst on twitter </li>
     <li>Check out my portfolio: https://teddy-loukas-portfolio.netlify.app/ </li>
   </ul>
