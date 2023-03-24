@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/teddyconst" target="blank"><img src="https://img.shields.io/twitter/follow/teddyconst?logo=twitter&style=for-the-badge" alt="teddyconst" /></a> </p>
 
-- 🔭 I’m currently working on [English Learning Games](https://github.com/ParadiseLost69/english-learning-games)
+- 🔭 I’m currently working on [Workout Tracker](https://github.com/ParadiseLost69/workout-tracker)
 
 - 🌱 I’m currently learning **AI and Next.js**
 
