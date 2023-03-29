@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tedloukas12@gmail.com**
 
-- 📄 Know about my experiences [https://rxresu.me/tedloukas12/mai-teraoka](https://rxresu.me/tedloukas12/mai-teraoka)
+- 📄 Check out my resume [https://rxresu.me/tedloukas12/mai-teraoka](https://rxresu.me/tedloukas12/mai-teraoka)
 
 - ⚡ Fun fact **I can speak Japanese**
 
